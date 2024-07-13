@@ -1,0 +1,47 @@
+# site settings
+title: Incite Insight
+subtitle: by Adam Secada
+email: amsecada(at)gmail(dot)com
+description: to know about AI, DeFI, and Other Acronyms.
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address: 
+city: Dallas
+state: TX
+zip_code:
+country: United States of America
+phone: 
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 2
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/amsecada
+  GitLab:
+  Google-Plus:
+  Instagram:
+  LinkedIn: https://www.linkedin.com/in/adamsecada/
+  Twitter: https://twitter.com/adamsecada
+  Facebook:
+  Slack:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+plugins:
+  - jemoji
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
