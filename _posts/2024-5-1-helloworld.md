@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Hello World
-description: Thunder & Showers Bring Out Flowers
-image: assets/images/adamsplit.jpg
+title: Our Clients
+description: View Their Success
+image: assets/images/clienthandshake.png
 ---
 
 ## Content to be Placed Here.
