@@ -3,7 +3,7 @@ title: Streemline
 subtitle: by StealthStartup
 email: amsecada(at)gmail(dot)com
 description: Learn how AI can accelerate your business.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 
@@ -14,8 +14,8 @@ country: United States of America
 phone: 
 
 # homepage tiles
-tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 2
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 10
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands

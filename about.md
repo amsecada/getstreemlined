@@ -3,7 +3,7 @@ title: About Me
 layout: landing
 description: ''
 image: assets/images/adamreading.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->
