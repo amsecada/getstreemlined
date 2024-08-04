@@ -7,6 +7,3 @@ image: null
 author: null
 show_tile: false
 ---
-
-Learn how we can help accelerate your business.
-(This Tag Exists in index.md)
