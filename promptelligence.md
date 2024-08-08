@@ -46,7 +46,7 @@ This program is ideal for small to medium business owners eager to explore AI bu
 
 ### Your Next Steps:
 
-Ready to transform your business with AI? Don't let technology outpace your growth. Contact us today to learn more about the "Retool" program and schedule your training. Our friendly team is here to guide you every step of the way, ensuring your journey into AI is smooth, successful, and absolutely transformative.
+Ready to transform your business with AI? Don't let technology outpace your growth. Contact us today to learn more about the "Promptelligence" program and schedule your training. Our friendly team is here to guide you every step of the way, ensuring your journey into AI is smooth, successful, and absolutely transformative.
 
 {% include contact-form.html %}
 
