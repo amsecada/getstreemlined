@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: landing
 title: Contact Us
 description: AI Training for Business Users
 image: assets/images/robotmailman.png
