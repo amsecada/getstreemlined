@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: post
 title: Contact Us
 description: AI Training for Business Users
 image: assets/images/robotmailman.png
@@ -49,3 +49,4 @@ Drop us a message. Share your vision, your questions, or your doubts about AI. W
 Getting in touch doesn’t mean a commitment. Think of it as a first step towards understanding what AI can do for you. We’re here to provide information and guidance tailored to your specific needs.
 
 ### We’re Just a Message Away—Let’s Build the Future Together
+{% include contact-form.html %}
