@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Retool
+title: Promptelligence
 description: AI Training for Business Users
 image: assets/images/coffeerobothero.png
 nav-menu: false
@@ -8,11 +8,11 @@ nav-menu: false
 
 # Welcome to the Future of Work: Harnessing AI to Elevate Your Business
 
-## Unveil the Power of AI with Our Comprehensive "Retool" Training Program
+## Unveil the Power of AI with Our Comprehensive "Promptelligence" Training Program
 
 ### Why Invest in AI Training?
 
-In today's rapidly evolving digital landscape, staying ahead means continuously adapting and upgrading your tools and techniques. For small B2B business owners navigating the burgeoning field of artificial intelligence, the challenge is not just about adopting new technology but mastering it to transform your operational dynamics. Our "Retool" training program is designed to demystify the complexities of AI, particularly focusing on the groundbreaking capabilities of ChatGPT.
+In today's rapidly evolving digital landscape, staying ahead means continuously adapting and upgrading your tools and techniques. For small B2B business owners navigating the burgeoning field of artificial intelligence, the challenge is not just about adopting new technology but mastering it to transform your operational dynamics. Our "Promptelligence" training program is designed to demystify the complexities of AI, particularly focusing on the groundbreaking capabilities of ChatGPT.
 
 ### What You Will Learn:
 
@@ -38,7 +38,7 @@ In today's rapidly evolving digital landscape, staying ahead means continuously 
 
 ### Our Training Approach:
 
-Our multi-day "Retool" program is a deep dive into practical, actionable AI strategies. It’s structured to provide comprehensive learning without overwhelming your team. Each session is packed with insights yet delivered in digestible segments that respect your time and intelligence. We avoid jargon, focusing instead on clear, concise explanations that make sense.
+Our multi-day "Propmtelligence" program is a deep dive into practical, actionable AI strategies. It’s structured to provide comprehensive learning without overwhelming your team. Each session is packed with insights yet delivered in digestible segments that respect your time and intelligence. We avoid jargon, focusing instead on clear, concise explanations that make sense.
 
 ### Who Should Attend?
 
@@ -48,6 +48,5 @@ This program is ideal for small to medium business owners eager to explore AI bu
 
 Ready to transform your business with AI? Don't let technology outpace your growth. Contact us today to learn more about the "Retool" program and schedule your training. Our friendly team is here to guide you every step of the way, ensuring your journey into AI is smooth, successful, and absolutely transformative.
 
-**Contact Us**: [Your Contact Information]
+{% include contact-form.html %}
 
-Let's embark on this journey together. Your future in AI starts now!
