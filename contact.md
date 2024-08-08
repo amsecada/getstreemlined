@@ -2,7 +2,7 @@
 layout: post
 title: Contact Us
 description: AI Training for Business Users
-image: assets/images/pic01.jpg
+image: assets/images/robotmailman.png
 nav-menu: true
 ---
 
