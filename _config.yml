@@ -3,8 +3,8 @@ title: Streemline
 subtitle: by StealthStartup
 email: amsecada(at)gmail(dot)com
 description: Learn how AI can accelerate your business.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: https://amsecada.github.io/ # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: https://amsecada.github.io # the base hostname & protocol for your site
 author:
 street_address: 
 city: Dallas
